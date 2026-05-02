@@ -23,7 +23,7 @@ const LANGUAGES = [
   "Java", "C++", "C#", "Go", "Rust", "SQL", "PHP", "Ruby",
 ];
 
-const API_BASE = "http://localhost:5000";  // Change in production
+const API_BASE = "https://ai-code-explainer-backend-c5jm.onrender.com";  // Change in production
 
 export default function App() {
   const [code, setCode]         = useState("");
