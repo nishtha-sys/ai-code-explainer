@@ -36,7 +36,7 @@ Python, JavaScript, TypeScript, Java, C++, C#, Go, Rust, SQL, PHP, Ruby, and mor
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/nishtha-sys/ai-code-explainer>
 cd ai-code-explainer
 ```
 
