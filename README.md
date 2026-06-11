@@ -69,7 +69,7 @@ Each mode uses a hand-crafted system prompt that enforces a specific output form
 
 ### Production-Grade Error Handling
 - `408 Timeout` → clean user message, not a crash
-- `401 Unauthorized` → Groq API key error caught explicitly  
+- `401 Unauthorized` → Groq API key error caught explicitly
 - `400 Bad Request` → empty input and invalid mode validation
 - `502 Bad Gateway` → upstream API failure handled gracefully
 
@@ -99,7 +99,13 @@ Python · JavaScript · TypeScript · Java · C++ · C# · Go · Rust · SQL · 
 - Node.js 18+
 - Free Groq API Key → [console.groq.com](https://console.groq.com) (no credit card needed)
 
-### Backend
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/nishtha-sys/ai-code-explainer.git
+cd ai-code-explainer
+```
+
+### 2️⃣ Backend Setup
 ```powershell
 cd backend
 python -m venv venv
@@ -111,7 +117,7 @@ python app.py
 # Runs at http://localhost:5000
 ```
 
-### Frontend
+### 3️⃣ Frontend Setup
 ```powershell
 cd frontend
 npm install
