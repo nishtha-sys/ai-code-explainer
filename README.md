@@ -187,7 +187,7 @@ ai-code-explainer/
 
 **Nishtha Sahani** — B.Tech CS (AI), BBDU Lucknow · Graduating 2027
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishtha%20Sahani-blue)](https://linkedin.com/in/nishtha-sahani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishtha%20Sahani-blue)](https://www.linkedin.com/in/nishtha-sahani-2209aa236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-nishtha--sys-black)](https://github.com/nishtha-sys)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://portfolio-nishthasahani.vercel.app)
 
